@@ -39,8 +39,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/>
   </a>
 </p>
-<br><br>
-<p align="center">
-  <img src=https://github-readme-stats.vercel.app/api?username=rudeuns&include_all_commits=true&show_icons=true&theme=onedark />
-  <img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=zilliver />
-</p>
