@@ -1,8 +1,3 @@
-<h3 align="center">Interest</h3>
-<p align="center">
-  Backend | DevOps | AI
-</p>
-
 <h3 align="center">Skills</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
