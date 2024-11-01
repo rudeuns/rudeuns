@@ -27,6 +27,7 @@
 <h3 align="center">Cowork Tools</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
@@ -36,8 +37,5 @@
 <p align="center">
   <a href="mailto:rudeuns@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" href=""/>
-  </a>
-  <a href="https://www.linkedin.com/in/kyungeun-seon-99b78028a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/>
   </a>
 </p>
